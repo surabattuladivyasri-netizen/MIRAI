@@ -10,7 +10,7 @@
 
 ## Documentation & Diagrams
 
-Click the links below to view the system media and schematics:
+Click the links below to view the system media, schematics, and workflow diagrams:
 
 * 🖼️ [View Hardware Prototype](docs/Stick_Photo.png)
 * 📐 [View System Architecture](docs/System_Architecture.png)
@@ -48,3 +48,5 @@ The core embedded program is located in [`src/MIRAI.ino`](src/MIRAI.ino).
 This project has been published in the **SSRG International Journal of Computer Science and Engineering (IJCSE)**:
 * **Paper Title:** *An Intelligent Multi-Sensor Navigation Aid for Safe and Independent Mobility Among the Visually Impaired*
 * **Volume/Issue:** Volume 13 Issue 4, April 2026
+* 📄 [Read Full Research Paper](docs/MIRAI_Research_Paper.pdf)
+* 🎓 [View Publication Certificate](docs/Publication_Certificate.pdf)
