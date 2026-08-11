@@ -8,11 +8,14 @@
 
 ---
 
-## Smart Cane Prototype & Architecture
+## Documentation & Diagrams
 
-| Hardware Prototype | System Architecture |
-| :---: | :---: |
-| <img src="docs/Stick_Photo.png" width="300" alt="MIRAI Smart Cane"/> | <img src="docs/System_Architecture.png" width="400" alt="System Architecture"/> |
+Click the links below to view the system media and schematics:
+
+* 🖼️ [View Hardware Prototype](docs/Stick_Photo.png)
+* 📐 [View System Architecture](docs/System_Architecture.png)
+* ⚡ [View Circuit Diagram](docs/Circuit_Diagram.png)
+* 🔄 [View Workflow Diagram](docs/Workflow_Diagram.png)
 
 ---
 
@@ -30,9 +33,6 @@
 
 ### Source Code
 The core embedded program is located in [`src/MIRAI.ino`](src/MIRAI.ino).
-
-### Circuit Diagram
-![Circuit Diagram](docs/Circuit_Diagram.png)
 
 ### Components Used
 * **Microcontroller:** Arduino Mega 2560
